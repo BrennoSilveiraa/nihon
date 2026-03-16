@@ -1,0 +1,1251 @@
+{
+  "sections": [
+    {
+      "id": "tokyo",
+      "name": "Tokyo",
+      "type": "city",
+      "kanji": "東京",
+      "subtitle": "A metrópole que nunca dorme — onde o futuro encontra a tradição",
+      "heroImg": "tokyo_hero.png",
+      "heroAlt": "Tokyo skyline",
+      "categories": [
+        {
+          "icon": "🗼",
+          "title": "Pontos Turísticos Imperdíveis",
+          "description": "Os locais mais visitados e fotografados de Tokyo",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Templo Senso-ji (浅草寺)",
+              "location": "Asakusa",
+              "description": "O templo mais antigo de Tokyo, fundado em 645 d.C. A entrada pelo portão Kaminarimon com sua enorme lanterna vermelha é icônica. A rua Nakamise-dori que leva ao templo é repleta de lojinhas e comidas tradicionais.",
+              "tags": [
+                "Gratuito",
+                "Histórico",
+                "Fotogênico"
+              ],
+              "tip": "Visite de manhã cedo para evitar multidões. À noite, o templo iluminado é espetacular.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Shibuya Crossing & Shibuya Sky",
+              "location": "Shibuya",
+              "description": "O cruzamento mais movimentado do mundo, com até 3.000 pessoas atravessando ao mesmo tempo. Suba ao observatório Shibuya Sky (230m) para uma vista panorâmica 360° de Tokyo, incluindo o Monte Fuji em dias claros.",
+              "tags": [
+                "~¥2.000",
+                "Vista Panorâmica",
+                "Ícone"
+              ],
+              "tip": "Reserve o Shibuya Sky online com antecedência. O pôr do sol é o melhor horário.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Meiji Jingu (明治神宮)",
+              "location": "Harajuku",
+              "description": "Santuário xintoísta dedicado ao Imperador Meiji, cercado por uma floresta de 170.000 árvores no coração de Tokyo. Um oásis de paz em meio à megalópole. Aos finais de semana, é possível ver casamentos tradicionais japoneses.",
+              "tags": [
+                "Gratuito",
+                "Natureza",
+                "Espiritual"
+              ],
+              "tip": "Combine com um passeio pela Takeshita Street em Harajuku logo ao lado.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Tokyo Skytree (東京スカイツリー)",
+              "location": "Sumida",
+              "description": "A torre de transmissão mais alta do mundo (634m) com dois observatórios. A vista de Tokyo se estende por dezenas de quilômetros. Possui shopping e aquário na base.",
+              "tags": [
+                "~¥2.100-3.400",
+                "Vista Panorâmica",
+                "Moderno"
+              ],
+              "tip": "Vá durante a semana para filas menores. O deck mais alto vale o extra.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Mercado de Tsukiji (築地市場)",
+              "location": "Tsukiji",
+              "description": "O mercado externo de Tsukiji continua ativo, com centenas de barracas oferecendo o sushi mais fresco do Japão, tamagoyaki (omelete japonesa), frutos do mar grelhados e matcha fresco. Uma experiência gastronômica obrigatória.",
+              "tags": [
+                "Gastronomia",
+                "Sushi Fresco",
+                "Imperdível"
+              ],
+              "tip": "Chegue entre 7h-9h para o melhor do mercado. Prove o atum otoro!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Akihabara (秋葉原)",
+              "location": "Akihabara",
+              "description": "O bairro eletrônico e da cultura otaku. Paraíso para fãs de anime, mangá, videogames e eletrônicos. Lojas de vários andares como Yodobashi Camera e centros de arcade retro.",
+              "tags": [
+                "Anime/Mangá",
+                "Eletrônicos",
+                "Arcades"
+              ],
+              "tip": "Visite o Don Quijote (Donki) para souvenirs baratos. Os arcades de garra são viciantes!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Palácio Imperial (皇居)",
+              "location": "Chiyoda",
+              "description": "Residência oficial da família imperial japonesa. Os jardins orientais são abertos ao público e gratuitos. A Ponte Nijubashi é um dos cartões postais mais clássicos de Tokyo.",
+              "tags": [
+                "Gratuito",
+                "Histórico",
+                "Jardins"
+              ],
+              "tip": "Tours guiados internos disponíveis (reserva online). Os jardins são lindos na primavera.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "TeamLab Borderless / Planets",
+              "location": "Azabudai Hills / Toyosu",
+              "description": "Museu de arte digital imersiva mundialmente famoso. Salas com projeções interativas que respondem ao toque e movimento. Uma experiência artística e sensorial única no mundo.",
+              "tags": [
+                "~¥3.800",
+                "Arte Digital",
+                "Imersivo"
+              ],
+              "tip": "Compre ingressos com semanas de antecedência — esgotam rápido!",
+              "isFavorite": false
+            }
+          ]
+        },
+        {
+          "icon": "🎌",
+          "title": "Favoritos dos Japoneses",
+          "description": "Onde os locais vão para relaxar, se divertir e aproveitar a vida",
+          "places": [
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Shimokitazawa (下北沢)",
+              "location": "Setagaya",
+              "description": "O bairro boêmio favorito dos jovens japoneses. Cheio de cafés indie, lojas de roupa vintage, livrarias usadas e teatrinhos pequenos. Tem uma vibe única de vila dentro da megalópole. Os japoneses adoram passear sem pressa por aqui.",
+              "tags": [
+                "Vintage",
+                "Cafés",
+                "Underground"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Kichijoji & Inokashira Park",
+              "location": "Musashino",
+              "description": "Eleito repetidamente como o bairro onde os japoneses mais gostariam de morar. O parque Inokashira é perfeito para piqueniques, pedalinhos e hanami. Ruas charmosas com restaurantes e lojas locais.",
+              "tags": [
+                "Parque",
+                "Pedalinho",
+                "Relaxante"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Yanaka (谷中)",
+              "location": "Taito",
+              "description": "Um dos poucos bairros que sobreviveram à guerra, mantendo a atmosfera da Tokyo antiga. Ruas estreitas, templos pequenos, gatos e a charmosa rua Yanaka Ginza. Os japoneses vêm aqui para sentir nostalgia do Japão antigo.",
+              "tags": [
+                "Nostálgico",
+                "Gatos",
+                "Shitamachi"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Onsen & Sentō (温泉・銭湯)",
+              "location": "Vários locais",
+              "description": "Banhos termais públicos são a forma favorita dos japoneses de relaxar. Em Tokyo, experimente o Thermae-yu em Shinjuku ou o Ōedo-Onsen Monogatari. É a experiência cultural mais autêntica que você pode ter.",
+              "tags": [
+                "Relaxamento",
+                "Cultural",
+                "~¥1.000-2.800"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Izakayas em Yurakucho / Shinbashi",
+              "location": "Yurakucho / Shinbashi",
+              "description": "Os becos sob os trilhos do trem em Yurakucho são cheios de izakayas (bares-restaurantes) onde os japoneses se reúnem após o trabalho. Cerveja gelada, yakitori, e um ambiente autêntico de \"salaryman\" japonês.",
+              "tags": [
+                "Yakitori",
+                "Cerveja",
+                "Autêntico"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Golden Gai (ゴールデン街)",
+              "location": "Shinjuku",
+              "description": "Labirinto de 6 becos estreitos com mais de 200 bares minúsculos (5-8 lugares cada). Cada bar tem um tema diferente — jazz, rock, cinema, anime. É uma experiência social única e favorita dos moradores de Tokyo.",
+              "tags": [
+                "Nightlife",
+                "Bares Temáticos",
+                "Compacto"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Enoshima & Kamakura",
+              "location": "~1h de Tokyo",
+              "description": "Escapada de um dia favorita dos japoneses. Kamakura tem o Grande Buda (45 tons), templos zen e praias. Enoshima é uma ilha com santuário, cavernas e vista do Monte Fuji. Perfeito para um dia de relax longe da cidade.",
+              "tags": [
+                "Bate-volta",
+                "Praia",
+                "Grande Buda"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Nakano Broadway",
+              "location": "Nakano",
+              "description": "A versão local e menos turística de Akihabara. Japoneses colecionadores vêm aqui para encontrar mangás raros, figures vintage, cards e relíquias da cultura pop. Mais barato e mais autêntico que Akihabara.",
+              "tags": [
+                "Otaku",
+                "Colecionáveis",
+                "Barato"
+              ],
+              "isFavorite": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "kyoto",
+      "name": "Kyoto",
+      "type": "city",
+      "kanji": "京都",
+      "subtitle": "A antiga capital imperial — onde a alma do Japão tradicional vive",
+      "heroImg": "kyoto_hero.png",
+      "heroAlt": "Kyoto temples",
+      "categories": [
+        {
+          "icon": "⛩️",
+          "title": "Pontos Turísticos Imperdíveis",
+          "description": "Patrimônios da humanidade e tesouros culturais",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Fushimi Inari Taisha (伏見稲荷大社)",
+              "location": "Fushimi",
+              "description": "Mais de 10.000 portais torii vermelhos formando túneis que sobem a montanha Inari. O santuário xintoísta mais famoso do Japão. A trilha completa leva ~2-3 horas e oferece vistas espetaculares de Kyoto.",
+              "tags": [
+                "Gratuito",
+                "24h",
+                "Icônico"
+              ],
+              "tip": "Vá ao amanhecer ou à noite para ter os portais quase só para você.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Kinkaku-ji - Pavilhão Dourado (金閣寺)",
+              "location": "Kita",
+              "description": "Templo zen coberto com folhas de ouro que se reflete perfeitamente no lago espelho. Um dos cenários mais fotografados do Japão. Cada andar representa um estilo arquitetônico diferente.",
+              "tags": [
+                "¥500",
+                "Patrimônio UNESCO",
+                "Fotogênico"
+              ],
+              "tip": "Visite logo na abertura (9h). O reflexo no lago é melhor sem vento.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Arashiyama Bamboo Grove (嵐山竹林)",
+              "location": "Arashiyama",
+              "description": "Caminhar entre bambus gigantes que formam um túnel verde é uma experiência surreal. O bairro de Arashiyama também oferece o Templo Tenryu-ji, a ponte Togetsukyo e passeios de barco pelo rio.",
+              "tags": [
+                "Gratuito",
+                "Natureza",
+                "Mágico"
+              ],
+              "tip": "Chegue antes das 8h — às 10h fica extremamente lotado.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Kiyomizu-dera (清水寺)",
+              "location": "Higashiyama",
+              "description": "Templo budista com uma varanda de madeira que se projeta sobre a montanha sem usar um único prego. Fundado em 778 d.C. O caminho até lá pelas ruas Ninenzaka e Sannenzaka é igualmente encantador.",
+              "tags": [
+                "¥400",
+                "Patrimônio UNESCO",
+                "Vistas"
+              ],
+              "tip": "Iluminação especial à noite em certas épocas do ano — consulte o calendário.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Gion - Distrito das Geishas (祇園)",
+              "location": "Gion",
+              "description": "O bairro tradicional mais bem preservado de Kyoto. Ruas de pedra ladeadas por casas de madeira (machiya). À noite, você pode avistar maiko (aprendizes de geisha) caminhando pelas ruas Hanami-koji e Shirakawa.",
+              "tags": [
+                "Gratuito",
+                "Cultural",
+                "Geishas"
+              ],
+              "tip": "Visite ao entardecer. Respeite as geishas — não toque nem bloqueie o caminho delas.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Nara (奈良) — Bate-volta",
+              "location": "~45min de Kyoto",
+              "description": "Primeira capital do Japão, famosa pelos mais de 1.000 cervos selvagens que caminham livremente pelo parque. O Grande Buda de Nara dentro do Todai-ji é a maior estátua de bronze do mundo, dentro do maior edifício de madeira do mundo.",
+              "tags": [
+                "Bate-volta",
+                "Cervos",
+                "Grande Buda"
+              ],
+              "tip": "Compre os biscoitos \"shika senbei\" (¥200) para alimentar os cervos — eles fazem reverência!",
+              "isFavorite": false
+            }
+          ]
+        },
+        {
+          "icon": "🍵",
+          "title": "Favoritos dos Japoneses",
+          "description": "Experiências autênticas e lugares de relaxamento dos locais",
+          "places": [
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Filósofo's Path (哲学の道)",
+              "location": "Higashiyama",
+              "description": "Caminho de 2km ao longo de um canal sombreado por cerejeiras. Os moradores de Kyoto adoram caminhar aqui, especialmente na primavera (hanami) e outono (momiji). Conecta os templos Ginkaku-ji e Nanzen-ji.",
+              "tags": [
+                "Gratuito",
+                "Meditativo",
+                "Cerejeiras"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Cerimônia do Chá Autêntica",
+              "location": "Uji / Kyoto",
+              "description": "Kyoto é o berço da cerimônia do chá japonesa. Em Uji (20min de Kyoto), a região produtora do melhor matcha do mundo, você pode participar de cerimônias autênticas e provar doces wagashi artesanais.",
+              "tags": [
+                "Matcha",
+                "Wagashi",
+                "~¥1.500-3.000"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Kurama & Kibune (鞍馬・貴船)",
+              "location": "30min ao norte de Kyoto",
+              "description": "Vilas nas montanhas onde os habitantes de Kyoto fogem do calor do verão. Trilha pela floresta entre os dois vilarejos, onsen ao ar livre em Kurama, e no verão, restaurantes em Kibune servem comida sobre plataformas no rio (kawadoko).",
+              "tags": [
+                "Trilha",
+                "Onsen",
+                "Kawadoko"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Nishiki Market (錦市場)",
+              "location": "Nakagyo",
+              "description": "A \"cozinha de Kyoto\" — mercado coberto com mais de 130 lojas e barracas. Os locais vêm aqui para comprar ingredientes frescos, pickles tradicionais, tofu de Kyoto e provar comida de rua como takoyaki e yuba.",
+              "tags": [
+                "Gastronomia",
+                "Mercado",
+                "400 anos"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Rio Kamogawa (鴨川)",
+              "location": "Centro de Kyoto",
+              "description": "Os moradores de Kyoto adoram sentar nas margens do rio Kamogawa, especialmente ao entardecer. Casais se sentam uniformemente espaçados (um fenômeno social famoso!). No verão, restaurantes montam terraços (yuka) sobre o rio.",
+              "tags": [
+                "Gratuito",
+                "Romântico",
+                "Pôr do Sol"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Templo Tofuku-ji (東福寺)",
+              "location": "Higashiyama",
+              "description": "Enquanto turistas lotam o Kinkaku-ji, os japoneses vão ao Tofuku-ji para ver as folhas de outono (momiji) mais espetaculares de Kyoto. A ponte Tsutenkyo sobre o vale de árvores coloridas é inesquecível.",
+              "tags": [
+                "¥500",
+                "Outono",
+                "Zen"
+              ],
+              "isFavorite": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "osaka",
+      "name": "Osaka",
+      "type": "city",
+      "kanji": "大阪",
+      "subtitle": "A capital da comida e da diversão — onde os japoneses soltam a energia",
+      "heroImg": "osaka_hero.png",
+      "heroAlt": "Osaka Castle",
+      "categories": [
+        {
+          "icon": "🏰",
+          "title": "Pontos Turísticos Imperdíveis",
+          "description": "Os grandes atrativos da cidade mais divertida do Japão",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Castelo de Osaka (大阪城)",
+              "location": "Chuo",
+              "description": "Um dos castelos mais famosos do Japão, originalmente construído em 1583. O museu interno conta a história de Toyotomi Hideyoshi. O parque ao redor é enorme e perfeito para hanami na primavera com mais de 3.000 cerejeiras.",
+              "tags": [
+                "¥600",
+                "Histórico",
+                "Cerejeiras"
+              ],
+              "tip": "O mirante no 8º andar oferece vista panorâmica. Combine com um passeio de barco pelo fosso.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Dotonbori (道頓堀)",
+              "location": "Namba",
+              "description": "O coração pulsante de Osaka! O famoso letreiro do Glico Running Man, o caranguejo mecânico gigante, e comida de rua por todos os lados. É aqui que se vive o lema de Osaka: \"kuidaore\" (comer até cair).",
+              "tags": [
+                "Gratuito",
+                "Comida de Rua",
+                "Neons"
+              ],
+              "tip": "Prove takoyaki, okonomiyaki, gyoza e kushikatsu — tudo em uma única rua!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Universal Studios Japan (USJ)",
+              "location": "Konohana",
+              "description": "Um dos parques temáticos mais populares do Japão, com a área exclusiva de Super Nintendo World (Mario), Wizarding World of Harry Potter e montanhas-russas radicais. Diversão para todas as idades.",
+              "tags": [
+                "~¥8.600",
+                "Mario World",
+                "Dia Inteiro"
+              ],
+              "tip": "Compre Express Pass para pular filas. Vá em dia de semana se possível.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Osaka Aquarium Kaiyukan (海遊館)",
+              "location": "Tempozan",
+              "description": "Um dos maiores aquários do mundo, com tanque principal de 5.400m³ onde nadam tubarões-baleia. A experiência de descer em espiral observando a vida marinha do Pacífico é fascinante.",
+              "tags": [
+                "~¥2.700",
+                "Tubarão-Baleia",
+                "Família"
+              ],
+              "tip": "Combine com a roda-gigante Tempozan ao lado e o passeio de barco.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Turístico"
+              },
+              "name": "Shinsekai & Tsutenkaku (新世界・通天閣)",
+              "location": "Naniwa",
+              "description": "Bairro retrô que mantém a atmosfera da Osaka dos anos 50-60. A torre Tsutenkaku é o símbolo do bairro. Famoso pelos restaurantes de kushikatsu (espetos fritos). Uma Osaka autêntica e despojada.",
+              "tags": [
+                "Retrô",
+                "Kushikatsu",
+                "Nostálgico"
+              ],
+              "tip": "Regra de ouro: NUNCA mergulhe o kushikatsu duas vezes no molho compartilhado!",
+              "isFavorite": false
+            }
+          ]
+        },
+        {
+          "icon": "🎉",
+          "title": "Favoritos dos Japoneses",
+          "description": "Onde os osakenses vão para se divertir de verdade",
+          "places": [
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Nakazakicho (中崎町)",
+              "location": "Kita",
+              "description": "O bairro hipster secreto de Osaka. Casas antigas convertidas em cafés artesanais, lojas vintage e galerias. Os jovens japoneses adoram explorar este bairro por suas lojas únicas e vibe relaxada.",
+              "tags": [
+                "Hipster",
+                "Cafés",
+                "Vintage"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Ura-Namba (裏なんば)",
+              "location": "Namba",
+              "description": "Os becos \"secretos\" atrás de Namba, onde os osakenses comem e bebem. Izakayas autênticas com pratos por ¥300-500. É a versão local e menos turística de Dotonbori. A comida é igualmente boa (ou melhor) e mais barata.",
+              "tags": [
+                "Gastronomia",
+                "Barato",
+                "Autêntico"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Spa World (スパワールド)",
+              "location": "Shinsekai",
+              "description": "Complexo de onsen gigante com banhos temáticos de países do mundo todo. Os osakenses passam o dia inteiro aqui relaxando. Tem sauna, piscinas, restaurantes e até área de dormir.",
+              "tags": [
+                "~¥1.500",
+                "Onsen",
+                "Dia Inteiro"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Minoo Park & Cachoeira (箕面)",
+              "location": "30min de Osaka",
+              "description": "Parque natural favorito dos osakenses para fugir da cidade. Trilha fácil de 2.7km até a cachoeira Minoo (33m). No outono, as folhas de momiji são espetaculares. Experimente o tempurá de folha de bordo!",
+              "tags": [
+                "Gratuito",
+                "Trilha",
+                "Cachoeira"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Americamura (アメリカ村)",
+              "location": "Shinsaibashi",
+              "description": "A \"América Village\" de Osaka — centro de moda jovem, lojas de streetwear, discos de vinil e cultura urbana. Os jovens japoneses passam os fins de semana aqui. Prove o sorvete gigante do Long Softcream.",
+              "tags": [
+                "Moda",
+                "Jovem",
+                "Streetwear"
+              ],
+              "isFavorite": true
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Local"
+              },
+              "name": "Kuromon Market (黒門市場)",
+              "location": "Namba",
+              "description": "O \"estômago de Osaka\" — mercado de 190 anos onde os chefs locais compram ingredientes. Frutos do mar fresquíssimos, sashimi de atum, caranguejos King, frutas premium e o famoso melão japonês.",
+              "tags": [
+                "Gastronomia",
+                "Frutos do Mar",
+                "Mercado"
+              ],
+              "isFavorite": true
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "anime",
+      "name": "Anime & Cultura Otaku",
+      "type": "theme",
+      "categories": [
+        {
+          "icon": "🗼",
+          "title": "Tokyo — Capital Otaku",
+          "description": "O epicentro mundial da cultura anime, mangá e games",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Imperdível"
+              },
+              "name": "Akihabara — Electric Town (秋葉原)",
+              "location": "Akihabara, Tokyo",
+              "description": "O bairro mais famoso do mundo para cultura otaku. Prédios inteiros dedicados a anime, mangá, figures, games e eletrônicos. Lojas como Mandarake, Animate, Radio Kaikan e centros de arcade de vários andares. Maid cafés e lojas de gachapon por toda parte.",
+              "tags": [
+                "Anime",
+                "Figures",
+                "Arcades",
+                "Maid Café"
+              ],
+              "tip": "Mandarake tem figures e mangás usados em ótimo estado por preços incríveis. Os arcades de garra (UFO Catcher) são viciantes!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Imperdível"
+              },
+              "name": "Ghibli Museum (三鷹の森ジブリ美術館)",
+              "location": "Mitaka, Tokyo",
+              "description": "Museu criado por Hayao Miyazaki, dedicado ao Studio Ghibli. O prédio em si é uma obra de arte — cada canto tem detalhes mágicos. Exibe curtas exclusivos, tem o ônibus-gato gigante para crianças e o robô-soldado de Laputa no terraço. Peregrinação obrigatória para fãs de Totoro, A Viagem de Chihiro e Princesa Mononoke.",
+              "tags": [
+                "~¥1.000",
+                "Reserva Obrigatória",
+                "Studio Ghibli"
+              ],
+              "tip": "Ingressos esgotam meses antes! Compre pelo site oficial Lawson assim que abrirem as vendas. Não é permitido fotografar dentro do museu.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Imperdível"
+              },
+              "name": "Nakano Broadway (中野ブロードウェイ)",
+              "location": "Nakano, Tokyo",
+              "description": "A versão local e menos turística de Akihabara, preferida por colecionadores japoneses. Shopping de vários andares com lojas especializadas em mangás raros, figures vintage, cards de TCG, tokusatsu e relíquias da cultura pop. O Mandarake aqui tem várias lojas especializadas por gênero.",
+              "tags": [
+                "Colecionáveis",
+                "Mangá Raro",
+                "Mais Barato"
+              ],
+              "tip": "Apenas 5 min de Shinjuku pelo JR Chuo Line. Mais barato e autêntico que Akihabara para figures e mangás usados.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Ikebukuro — Otome Road & Animate",
+              "location": "Ikebukuro, Tokyo",
+              "description": "Se Akihabara é o paraíso masculino, Ikebukuro é o paraíso das fãs femininas. Otome Road é repleta de lojas de BL, shoujo mangá, doujinshi e goods de anime. O Animate Ikebukuro é o maior do mundo, com 10 andares. Sunshine City abriga o Pokémon Center Mega Tokyo e o Namja Town.",
+              "tags": [
+                "Otome/BL",
+                "Animate",
+                "Pokémon Center"
+              ],
+              "tip": "O Pokémon Center Mega tem produtos exclusivos do Japão. Namja Town tem atrações temáticas e gyoza de vários sabores!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Odaiba — Unicorn Gundam & DiverCity",
+              "location": "Odaiba, Tokyo",
+              "description": "A estátua do Unicorn Gundam em tamanho real (19.7m) na frente do DiverCity Tokyo Plaza é de tirar o fôlego. À noite, tem show de luzes com transformação. Dentro do shopping, o Gundam Base Tokyo é a maior loja de Gunpla do mundo. A área também tem o Tokyo Joypolis (arcade da SEGA).",
+              "tags": [
+                "Gundam",
+                "Gunpla",
+                "SEGA Joypolis"
+              ],
+              "tip": "O show de luzes do Gundam acontece à noite (verifique horários). Gundam Base tem kits exclusivos que não existem fora do Japão!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Tokyo Character Street & Jump Shop",
+              "location": "Tokyo Station, Tokyo",
+              "description": "No subsolo da estação Tokyo (First Avenue), um corredor de lojas oficiais dos personagens mais populares do Japão: Pokémon, Ghibli, One Piece, Dragon Ball, Shonen Jump, Hello Kitty, Rilakkuma e muito mais. O Jump Shop tem produtos exclusivos de Naruto, Jujutsu Kaisen, Demon Slayer e outros.",
+              "tags": [
+                "Lojas Oficiais",
+                "Shonen Jump",
+                "Exclusivos"
+              ],
+              "tip": "Fica no subsolo da estação — perfeito para aproveitar enquanto espera o Shinkansen. Produtos exclusivos do Japão!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Experiência"
+              },
+              "name": "Cafés Temáticos de Anime",
+              "location": "Akihabara / Ikebukuro / Harajuku",
+              "description": "Tokyo tem dezenas de cafés temáticos. Maid Cafés em Akihabara (onde garçonetes de uniforme interagem com clientes), cafés de Pokémon, Kirby, Capybara, Square Enix (Final Fantasy), Capcom e colaborações temporárias com animes da temporada. A comida é decorada com personagens.",
+              "tags": [
+                "Maid Café",
+                "Pokémon Café",
+                "~¥1.500-3.000"
+              ],
+              "tip": "O Pokémon Café (Nihonbashi) exige reserva online com semanas de antecedência. Maid Cafés: @Home Café é o mais famoso.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Experiência"
+              },
+              "name": "Arcades Retro & Game Centers",
+              "location": "Akihabara / Shinjuku / Shibuya",
+              "description": "Os game centers japoneses são uma experiência única. Prédios de 5-8 andares com UFO Catchers (máquinas de garra), rhythm games, simuladores de corrida, fighting games e jogos clássicos. Taito Station, GiGO e Club SEGA são os mais populares. Muitos funcionam 24 horas.",
+              "tags": [
+                "Arcades",
+                "UFO Catcher",
+                "~¥100-200/jogo"
+              ],
+              "tip": "As máquinas de garra dão prêmios de verdade — figures, pelúcias e snacks exclusivos. Peça ajuda ao funcionário se estiver difícil!",
+              "isFavorite": false
+            }
+          ]
+        },
+        {
+          "icon": "⛩️🏰",
+          "title": "Kyoto & Osaka — Cultura Otaku em Kansai",
+          "description": "A região de Kansai também é rica em atrações para fãs de anime e games",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Kyoto International Manga Museum (京都国際マンガミュージアム)",
+              "location": "Nakagyo, Kyoto",
+              "description": "Mais de 300.000 mangás disponíveis para leitura livre! O museu ocupa uma antiga escola primária e você pode pegar qualquer volume da estante e ler no gramado externo. Exposições sobre a história do mangá, demonstrações ao vivo de mangakás e oficinas de desenho.",
+              "tags": [
+                "~¥900",
+                "300.000+ Mangás",
+                "Leitura Livre"
+              ],
+              "tip": "Reserve pelo menos 3-4 horas — é fácil perder a noção do tempo. Tem mangás em inglês também!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Toei Kyoto Studio Park (東映太秦映画村)",
+              "location": "Uzumasa, Kyoto",
+              "description": "Parque temático de filmes e séries da Toei, com cenários reais de período Edo usados em produções de samurai e ninja. Atrações de anime como labirintos de Evangelion e One Piece, shows de luta de samurai ao vivo, e você pode se fantasiar de ninja ou geisha para fotos.",
+              "tags": [
+                "~¥2.400",
+                "Samurai/Ninja",
+                "Cosplay"
+              ],
+              "tip": "Perfeito para quem ama anime histórico (Rurouni Kenshin, Demon Slayer). Shows de ação ao vivo são imperdíveis!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Imperdível"
+              },
+              "name": "Den Den Town / Nipponbashi (日本橋)",
+              "location": "Namba, Osaka",
+              "description": "A \"Akihabara de Osaka\" — mais barata e menos lotada que a original. Ruas inteiras de lojas de anime, mangá, figures, cards de TCG e retro games. Lojas como Super Potato (games retro), Jungle (figures), e diversos maid cafés. Ótima para encontrar itens raros a preços menores.",
+              "tags": [
+                "Anime/Mangá",
+                "Retro Games",
+                "Mais Barato"
+              ],
+              "tip": "Super Potato tem consoles e jogos retro (NES, SNES, N64, PS1) a preços ótimos. Menos turistas = melhores preços!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Imperdível"
+              },
+              "name": "Universal Studios Japan — Áreas de Anime",
+              "location": "Konohana, Osaka",
+              "description": "Além do Super Nintendo World (Mario), o USJ tem atrações baseadas em anime que mudam por temporada: Demon Slayer, Jujutsu Kaisen, Attack on Titan, Spy x Family, Dragon Ball e outros. Cool Japan é a área de colaborações temporárias com as séries mais populares do momento.",
+              "tags": [
+                "~¥8.600",
+                "Nintendo World",
+                "Cool Japan"
+              ],
+              "tip": "As atrações de anime no Cool Japan mudam a cada temporada — verifique o site oficial para saber quais estarão disponíveis!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Experiência"
+              },
+              "name": "Locais Reais de Animes Famosos",
+              "location": "Diversas localizações",
+              "description": "Muitos animes usam locais reais como referência. A escadaria de Kimi no Na wa (Your Name) fica em Suga Shrine, Shinjuku. As praias de Slam Dunk ficam em Kamakura (cruzamento com o trem). A escola de K-On! é baseada na Toyosato Elementary em Shiga. Fãs fazem \"peregrinação\" (seichi junrei) a esses locais.",
+              "tags": [
+                "Your Name",
+                "Slam Dunk",
+                "Seichi Junrei"
+              ],
+              "tip": "O cruzamento de Slam Dunk em Kamakura (Kamakurakokomae Station) é lotado de fãs tirando a mesma foto icônica do anime!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Experiência"
+              },
+              "name": "Pokémon Centers & Nintendo",
+              "location": "Tokyo / Osaka / Kyoto",
+              "description": "As lojas oficiais da Pokémon Company têm produtos exclusivos do Japão que não existem em nenhum outro lugar. Pokémon Center Mega Tokyo (Ikebukuro), Pokémon Center Osaka (Shinsaibashi) e Pokémon Center Kyoto (Shijo). O Nintendo Tokyo (Shibuya Parco) tem produtos oficiais da Nintendo.",
+              "tags": [
+                "Pokémon",
+                "Nintendo",
+                "Exclusivos JP"
+              ],
+              "tip": "Cada Pokémon Center tem mercadoria exclusiva da região. O de Kyoto tem itens com tema de maiko (geisha)!",
+              "isFavorite": false
+            }
+          ]
+        }
+      ],
+      "badge": "🎌 Anime & Mangá",
+      "title": "Guia Otaku do Japão",
+      "sectionDesc": "O Japão é o berço do anime e mangá. De Akihabara a Den Den Town, de museus interativos a cafés temáticos, aqui estão as melhores atrações para fãs de anime, mangá, games e cultura pop japonesa."
+    },
+    {
+      "id": "gaming",
+      "name": "Arcades & Lojas de Games",
+      "type": "theme",
+      "categories": [
+        {
+          "icon": "🕹️",
+          "title": "Arcades & Game Centers",
+          "description": "Os melhores game centers do Japão — prédios inteiros dedicados a jogos",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Arcade"
+              },
+              "name": "GiGO Akihabara (ex-SEGA)",
+              "location": "Akihabara, Tokyo",
+              "description": "O game center mais icônico de Akihabara. Vários andares com UFO Catchers (máquinas de garra com prizes exclusivos), rhythm games (maimai, Chunithm, Sound Voltex), fighting games, simuladores de corrida e cabines de purikura. Sempre lotado e com energia contagiante.",
+              "tags": [
+                "UFO Catcher",
+                "Rhythm Games",
+                "~¥100-200/jogo"
+              ],
+              "tip": "Os prizes dos UFO Catchers são exclusivos e mudam semanalmente. Se estiver difícil, peça ajuda ao funcionário — eles reposicionam o prêmio para você!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Arcade"
+              },
+              "name": "Taito Station Shinjuku",
+              "location": "Shinjuku, Tokyo",
+              "description": "Rede de game centers da Taito (criadora do Space Invaders). O de Shinjuku tem vários andares com os jogos mais recentes, máquinas de garra com prêmios premium, e uma área retro com clássicos. Aberto até tarde, perfeito para depois do jantar em Kabukicho.",
+              "tags": [
+                "Retro + Moderno",
+                "Até tarde",
+                "Prizes Premium"
+              ],
+              "tip": "A Taito Station tem app com cupons de desconto. Algumas unidades ficam abertas até 23h45!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Arcade"
+              },
+              "name": "Hey (HEY) — Hirose Entertainment Yard",
+              "location": "Akihabara, Tokyo",
+              "description": "O arcade favorito dos jogadores hardcore. Três andares dedicados a fighting games (Street Fighter, Tekken, Guilty Gear), shoot 'em ups (shmups) clássicos e jogos de ação retro. Aqui você encontra jogadores profissionais praticando. Atmosfera old-school autêntica.",
+              "tags": [
+                "Fighting Games",
+                "Shmups",
+                "Hardcore"
+              ],
+              "tip": "Se você joga fighting games, este é O lugar. Não tenha medo de sentar e jogar — a comunidade é acolhedora mesmo com estrangeiros!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Arcade"
+              },
+              "name": "Mikado Game Center",
+              "location": "Takadanobaba, Tokyo",
+              "description": "Lendário arcade retro que preserva cabines clássicas dos anos 80 e 90. Máquinas de Neo Geo, CPS2, Naomi e mais. Organiza torneios semanais de jogos clássicos. Um verdadeiro museu vivo dos arcades japoneses, frequentado por veteranos e entusiastas.",
+              "tags": [
+                "Retro Puro",
+                "Torneios",
+                "Neo Geo/CPS2"
+              ],
+              "tip": "Fica perto da estação Takadanobaba (JR Yamanote). Confira o Twitter deles para horários de torneios!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Arcade"
+              },
+              "name": "Round1 Stadium",
+              "location": "Várias cidades (Tokyo, Osaka)",
+              "description": "Mega complexo de entretenimento com game center de vários andares, boliche, karaoke, bilhar, darts e até esportes indoor. A seção de arcade é enorme, com os jogos mais novos. O Round1 Sennichimae em Osaka é especialmente popular. Diversão garantida por horas.",
+              "tags": [
+                "Mega Complexo",
+                "Boliche + Arcade",
+                "Dia Inteiro"
+              ],
+              "tip": "O plano \"all-you-can-play\" por tempo é a melhor opção se for ficar mais de 2 horas. Funciona bem para grupos!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Arcade"
+              },
+              "name": "Arcades de Den Den Town",
+              "location": "Nipponbashi, Osaka",
+              "description": "A área otaku de Osaka tem vários game centers espalhados pelas ruas. Game centers menores e mais intimistas, com máquinas retro que já sumiram de Tokyo. Mais baratos e menos lotados que os de Akihabara. Perfeito para quem quer jogar com calma sem multidão.",
+              "tags": [
+                "Retro",
+                "Menos Lotado",
+                "Osaka"
+              ],
+              "tip": "Combine com as lojas de retro games da região — Den Den Town é a \"Akihabara de Osaka\" com preços melhores!",
+              "isFavorite": false
+            }
+          ]
+        },
+        {
+          "icon": "👾",
+          "title": "Lojas de Retro Games",
+          "description": "Onde encontrar cartuchos raros, consoles vintage e relíquias do gaming — de Famicom a Dreamcast",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Lendária"
+              },
+              "name": "Super Potato Akihabara (スーパーポテト)",
+              "location": "Akihabara, Tokyo",
+              "description": "A loja de retro games mais famosa do mundo. 5 andares repletos de Famicom, Super Famicom, Nintendo 64, Mega Drive, Sega Saturn, PC Engine, PS1, Game Boy e muito mais. Cartuchos soltos, jogos CIB (na caixa), consoles restaurados e acessórios. O último andar tem um arcade retro jogável com clássicos por ¥100.",
+              "tags": [
+                "Retro Games",
+                "5 Andares",
+                "Arcade Retro"
+              ],
+              "tip": "O andar do arcade retro é imperdível — jogue clássicos em cabines originais por ¥100! Os preços dos jogos são justos mas não os mais baratos. Compare com Trader e Surugaya.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Retro Game Camp (レトロゲームキャンプ)",
+              "location": "Akihabara, Tokyo",
+              "description": "Loja especializada em jogos japoneses raros e de importação. Catálogo enorme de cartuchos soltos e CIB (complete in box) para todas as plataformas retro. Organização impecável por plataforma e gênero. O paraíso para colecionadores sérios que buscam edições especiais e jogos nunca lançados no ocidente.",
+              "tags": [
+                "Jogos Raros",
+                "CIB/Completos",
+                "Colecionadores"
+              ],
+              "tip": "Se procura jogos japoneses exclusivos (Japan-only releases), este é o melhor lugar. Estoque bem catalogado e funcionários conhecedores.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Trader — 3 lojas em Akihabara",
+              "location": "Akihabara, Tokyo",
+              "description": "Rede com 3 lojas em Akihabara, cada uma com foco diferente. Preços frequentemente mais baixos que Super Potato. Grande variedade de consoles e jogos usados de todas as gerações. Excelente para comparar preços. A Trader 3 tem seção dedicada a jogos retro raros.",
+              "tags": [
+                "Preços Baixos",
+                "3 Lojas",
+                "Todas as Gerações"
+              ],
+              "tip": "Visite as 3 lojas — cada uma tem estoque diferente. Geralmente 10-20% mais barato que Super Potato nos mesmos itens!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Surugaya (駿河屋)",
+              "location": "Akihabara, Tokyo",
+              "description": "Rede de lojas de usados com excelente seção de games retro. Estoque muito bem organizado por plataforma, facilitando a busca. Preços competitivos e estoque rotativo — sempre tem algo novo. Também vende manga, figures e DVDs. A loja de Akihabara tem vários andares.",
+              "tags": [
+                "Bem Organizado",
+                "Preço Justo",
+                "Estoque Rotativo"
+              ],
+              "tip": "Tem loja online (suruga-ya.jp) onde você pode verificar preços antes de ir. Ótima para planejar o que procurar!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Pechincha"
+              },
+              "name": "Hard Off (ハードオフ)",
+              "location": "Várias localizações, todo o Japão",
+              "description": "A rede de usados mais incrível do Japão para gamers. A seção \"Junk\" (ジャンク) tem jogos e consoles a partir de ¥110 (~R$4)! Requer garimpo, mas as pechinchas são absurdas — jogos de PS1, PS2, Famicom, Game Boy por centavos. Consoles funcionando por ¥500-2.000. O sonho de qualquer colecionador com orçamento limitado.",
+              "tags": [
+                "A partir de ¥110!",
+                "Garimpo",
+                "Pechinchas"
+              ],
+              "tip": "A seção \"Junk\" NÃO significa quebrado — significa \"sem garantia\". A maioria funciona perfeitamente! Leve um carregador universal para testar.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "local",
+                "label": "Pechincha"
+              },
+              "name": "Book Off (ブックオフ)",
+              "location": "Várias localizações, todo o Japão",
+              "description": "Rede irmã do Hard Off focada em mídia usada. Seções enormes de games de PS2, PS3, PSP, DS, 3DS, Wii por preços extremamente acessíveis (¥110-500). Também tem games novos selados antigos a preços de usados. Excelente para completar coleções de jogos mais recentes.",
+              "tags": [
+                "Preços Mínimos",
+                "PS2/DS/Wii",
+                "Fácil de Achar"
+              ],
+              "tip": "Tem filiais em quase toda estação de trem grande. O app \"Book Off Online\" mostra lojas próximas. Ótimo para compras rápidas!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Mandarake — Retro Games (まんだらけ)",
+              "location": "Nakano Broadway / Akihabara, Tokyo",
+              "description": "Dentro do Nakano Broadway, o Mandarake tem lojas especializadas por categoria — incluindo uma dedicada a games retro. Aqui é onde encontrar itens raros de verdade: limited editions, jogos lacrados, consoles especiais e relíquias de colecionador. Preços premium mas itens impossíveis de achar em outro lugar.",
+              "tags": [
+                "Itens Raros",
+                "Limited Editions",
+                "Colecionador"
+              ],
+              "tip": "Para games raros e de colecionador, o Mandarake de Nakano Broadway é superior ao de Akihabara. Apenas 5 min de trem de Shinjuku!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Destaque"
+              },
+              "name": "Super Potato & Jungle — Den Den Town",
+              "location": "Nipponbashi, Osaka",
+              "description": "A filial da Super Potato em Den Den Town (Osaka) tem preços frequentemente mais baixos que a de Akihabara por ter menos turistas. A Jungle ao lado complementa com figures e games raros. A região toda é um paraíso gamer com várias lojinhas menores de retro games espalhadas pelas ruas.",
+              "tags": [
+                "Osaka",
+                "Preços Menores",
+                "Menos Turistas"
+              ],
+              "tip": "A Super Potato de Osaka costuma ter 10-30% menos nos preços comparado com Akihabara. Menos turistas = menos inflação!",
+              "isFavorite": false
+            }
+          ]
+        },
+        {
+          "icon": "🛒",
+          "title": "Lojas de Games Novos & Acessórios",
+          "description": "Onde comprar jogos novos, consoles e acessórios com tax-free para turistas",
+          "places": [
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Tax-Free"
+              },
+              "name": "Yodobashi Camera Akihabara (ヨドバシカメラ)",
+              "location": "Akihabara, Tokyo",
+              "description": "A maior loja de eletrônicos de Akihabara — um prédio de 9 andares! Andar inteiro dedicado a games: todos os lançamentos de Switch, PS5, Xbox, PC Gaming. Acessórios, controllers, headsets e merchandise. Tax-free para turistas (compras acima de ¥5.000) com desconto adicional para pagamento em dinheiro.",
+              "tags": [
+                "Tax-Free",
+                "9 Andares",
+                "Tudo em Games"
+              ],
+              "tip": "Leve o passaporte para tax-free! Pagando em dinheiro ganha desconto extra. O andar de games fica geralmente no 5º ou 6º andar.",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Tax-Free"
+              },
+              "name": "Bic Camera (ビックカメラ)",
+              "location": "Várias localizações (Tokyo, Osaka, Kyoto)",
+              "description": "Rede concorrente da Yodobashi com preços similares ou melhores. Seções de games completas com lançamentos, limited editions japonesas e acessórios. Presente em todas as grandes cidades. O Bic Camera de Namba (Osaka) e o de Ikebukuro (Tokyo) são especialmente grandes.",
+              "tags": [
+                "Tax-Free",
+                "Preços Competitivos",
+                "Todas as Cidades"
+              ],
+              "tip": "O cupom de desconto do Bic Camera está disponível em vários sites de turismo — 7% off + tax-free combinados!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Oficial"
+              },
+              "name": "Nintendo Tokyo (Nintendo TOKYO)",
+              "location": "Shibuya Parco, Tokyo",
+              "description": "A loja oficial da Nintendo no Japão. Produtos exclusivos que não existem em nenhum outro lugar: camisetas, pelúcias, acessórios, controllers e merchandise de Mario, Zelda, Splatoon, Animal Crossing e mais. Área interativa para fotos com personagens Nintendo em tamanho real.",
+              "tags": [
+                "Oficial Nintendo",
+                "Exclusivos JP",
+                "Merchandise"
+              ],
+              "tip": "Fica no 6º andar do Shibuya Parco. Em fins de semana pode ter fila — vá durante a semana se possível. Produtos exclusivos esgotam rápido!",
+              "isFavorite": false
+            },
+            {
+              "badge": {
+                "type": "tourist",
+                "label": "Tax-Free"
+              },
+              "name": "Joshin Den Den Town (ジョーシン)",
+              "location": "Nipponbashi, Osaka",
+              "description": "Grande rede de eletrônicos de Osaka com loja flagship em Den Den Town. Seção ampla de games novos, consoles e acessórios com tax-free. Menos lotada que Yodobashi e com atendimento atencioso. A loja de Den Den Town fica estrategicamente perto das lojas de retro games da região.",
+              "tags": [
+                "Tax-Free",
+                "Osaka",
+                "Boa Variedade"
+              ],
+              "tip": "Combine com um circuito por Den Den Town: Joshin (novos) → Super Potato (retro) → Jungle (figures) → arcades!",
+              "isFavorite": false
+            }
+          ]
+        }
+      ],
+      "badge": "🎮 Gaming",
+      "title": "Arcades & Lojas de Games",
+      "sectionDesc": "O Japão é o berço dos videogames. De arcades de vários andares a lojas lendárias de retro games, aqui está o guia definitivo para gamers — onde jogar, onde comprar e onde encontrar aquele cartucho raro que você sempre quis."
+    }
+  ]
+}
